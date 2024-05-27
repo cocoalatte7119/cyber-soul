@@ -54,7 +54,7 @@ const tabs = ref([
     cv:"Yuki"
   },
   {
-    url: "(/assets/kira-BSHaBKXI.png",
+    url: "/assets/kira-BSHaBKXI.png",
     name: "キラ (Kira)",
     age: "18",
     info: "戦闘のスペシャリストで、冷静沈着な性格を持つ。危険な状況でも常に冷静に対処し、仲間を守るために奮闘する。",
